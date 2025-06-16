@@ -72,12 +72,4 @@
 
 この行動規範は、[https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1]で利用可能な[Contributor Covenant][homepage] バージョン 2.1 を基に作成されています。
 
-コミュニティへの影響ガイドラインは[Mozilla's code of conduct enforcement ladder][Mozilla CoC]に適合しています。
-
-この行動規範に関する一般的な質問への回答については、[https://www.contributor-covenant.org/faq][FAQ]の FAQ を参照してください。翻訳は[https://www.contributor-covenant.org/translations][translations]で入手できます。
-
 [homepage]: https://www.contributor-covenant.org
-[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
-[Mozilla CoC]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
